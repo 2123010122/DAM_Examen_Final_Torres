@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DAM_Examen_Final_Torres</string>
+    <string name="LOGINUSER">Usuario o Telefono</string>
+    <string name="LOGINCONTRASEÑA">Contraseña</string>
+    <string name="INICIARS">Iniciar Sesión con Facebook</string>
+    <string name="OLVIDAR">¿Has olvidado tu contraseña?</string>
+    <string name="NOCUENTA">No tienes cuenta? REGISTRATE</string>
+    <string name="BTNENTRAR">Entrar</string>
+</resources>
