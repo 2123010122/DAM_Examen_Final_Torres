@@ -6,4 +6,13 @@
     <string name="OLVIDAR">¿Has olvidado tu contraseña?</string>
     <string name="NOCUENTA">No tienes cuenta? REGISTRATE</string>
     <string name="BTNENTRAR">Entrar</string>
+    <string name="title_activity_dam_examen_final_torres_notas_columnas">
+        DAM_Examen_Final_Torres_NotasColumnas
+    </string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_Notas">Notas</string>
+    <string name="title_Favorito">Favorito</string>
+    <string name="title_user_profile">Mi Perfil</string>
 </resources>
